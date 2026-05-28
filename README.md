@@ -1,0 +1,1 @@
+A React Native mobile application that allows users to explore and discover movies. The app integrates external APIs to fetch real-time content and provides features such as search, authentication, and personal watchlists. It was developed as a group project with a focus on mobile UI design, state management using Redux, and backend integration with Firebase.
